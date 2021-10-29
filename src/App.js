@@ -1,5 +1,6 @@
 import React from 'react';
-import Homepage from './pages/homepage/Homepage.component'
+import ShopPage from  './pages/shop/shop.component';
+import Homepage from './pages/homepage/Homepage.component';
 import './App.css';
 import { Switch, Route } from 'react-router';
 
